@@ -4,19 +4,22 @@
             "username": "john.doe",
             "avatar": "https://placehold.co/400",
             "email" : "JohnDoe123@xyz.com",
-            "password": "john123"
+            "password": "john123",
+            "id": 1
         },
         {
             "username": "jane.doe",
             "avatar": "https://placehold.co/400",
             "email" : "JaneDoe123@xyz.com",
-            "password": "jane123"
+            "password": "jane123",
+            "id": 2
         },
         {
             "username": "tim.doe",
             "avatar": "https://placehold.co/400",
             "email" : "TimDoe123@xyz.com",
-            "password": "tim123"
+            "password": "tim123",
+            "id": 3
         }
     ],
     "forum" : [
